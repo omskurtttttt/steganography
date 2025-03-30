@@ -67,7 +67,3 @@ To decode:
 
 - For text steganography, maximum message length = (number of words in carrier text) ÷ 6
 - For image steganography, maximum data = (width × height × 3) ÷ 8 bytes
-
-## License
-
-MIT License
