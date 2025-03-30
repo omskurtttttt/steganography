@@ -1,8 +1,8 @@
 # steganography
 
-**Steganography Tool: Hide Messages in Text & Images**  
+**steganography: Hide Messages in Text & Images**  
 A Python-based tool to embed and extract secret messages using steganography techniques:  
-- **Text Steganography**: Conceals data in text files using **zero-width Unicode characters** (invisible to the naked eye).  
+- **Text Steganography**: Conceals data in text files using **zero-width Unicode characters**.  
 - **Image Steganography**: Hides messages in images via **least significant bit (LSB)** substitution.  
 
 **Features**:  
@@ -37,7 +37,6 @@ A Python-based tool to embed and extract secret messages using steganography tec
 - JPEG images may lose hidden data due to compression.  
 
 ---  
-**Keywords**: Steganography, Python, OpenCV, LSB, Zero-Width Characters, Data Hiding, Cybersecurity  
 
 **Quick Start**:  
 ```bash  
