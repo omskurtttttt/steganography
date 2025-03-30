@@ -1,0 +1,1 @@
+steganography is the practice of hiding information (like text, images, or files) within another seemingly innocent medium (such as an image, audio file, video, or text) to conceal its existence. Unlike encryption, which scrambles data to make it unreadable, steganography focuses on making the data invisible or undetectable to casual observers.
